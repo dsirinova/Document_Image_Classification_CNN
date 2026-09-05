@@ -1,4 +1,4 @@
-# Document Classification with CNN
+# Bank Document Classification with CNN
 
 A lightweight **Convolutional Neural Network (CNN)** built with **PyTorch** to classify documents into four categories:
 
