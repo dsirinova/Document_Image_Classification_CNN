@@ -73,7 +73,7 @@ The best input resolution was **256 × 192**.
 | Batch Normalization | 55.67% |
 | Adaptive Global Average Pooling | 52.42% |
 | Data Augmentation | 60.08% |
-| Dropout 0.3 | ~74.08% |
+| Dropout 0.3 | 74.08% |
 | Dropout 0.5 | **76.33%** |
 
 These experiments showed that the final architecture benefited from preserving spatial document information without Batch Normalization, aggressive augmentation, or global average pooling.
