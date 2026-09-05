@@ -1,6 +1,6 @@
 # Bank Document Classification with CNN
 
-A lightweight **Convolutional Neural Network (CNN)** built with **PyTorch** to classify documents into four categories:
+A lightweight **Convolutional Neural Network (CNN)** built with **PyTorch** to classify bank-related documents into four categories:
 
 - Invoice
 - Form
