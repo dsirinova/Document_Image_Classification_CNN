@@ -8,8 +8,8 @@ A lightweight **Convolutional Neural Network (CNN)** built with **PyTorch** to c
 - Budget
 
 ## Dataset
-
 Used the **RVL-CDIP** validation dataset with a balanced subset:
+https://www.kaggle.com/datasets/ananthakrishnanpv/rvl-cdip-validation-dataset
 
 - **8,000 images**
 - 2,000 images per class
